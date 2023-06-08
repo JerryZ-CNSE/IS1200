@@ -5,4 +5,4 @@ Hardware requirement: computer, Uno32 board.
 Software requirement: able to compile and run C code.  
 
 To set up the hardware, conect the Uno32 board to a laptop with a USB cable.  
-To run the program, open "Project.c" and type "gcc Project.c -o project", "./project"
+To run the program, download all code, open "Project.c" and type "gcc Project.c -o project", "./project"
