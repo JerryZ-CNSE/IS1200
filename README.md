@@ -6,3 +6,6 @@ Software requirement: able to compile and run C code.
 
 To set up the hardware, conect the Uno32 board to a laptop with a USB cable.  
 To run the program, download all code, open "Project.c" and type "gcc Project.c -o project", "./project"
+  
+"Main.java" and "Pixel.java" set up the pixels of the screen.
+"labwork.S" is part of a previous assignment and is used here to facilitate the ball movement.
